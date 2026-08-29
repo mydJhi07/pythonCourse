@@ -1,0 +1,6 @@
+print("================================")
+print("Muh. Yudha Damanhuri")
+print("Teknik Informatika - UNHAS")
+print("NIM\t:D121251004")
+print("Minat\t:AI & Robotics")
+print("================================")
