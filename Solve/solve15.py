@@ -1,0 +1,12 @@
+n = float(input())
+
+print(f"{n} x 1  = {n * 1:>8}")
+print(f"{n} x 2  = {n * 2:>8}")
+print(f"{n} x 3  = {n * 3:>8}")
+print(f"{n} x 4  = {n * 4:>8}")
+print(f"{n} x 5  = {n * 5:>8}")
+print(f"{n} x 6  = {n * 6:>8}")
+print(f"{n} x 7  = {n * 7:>8}")
+print(f"{n} x 8  = {n * 8:>8}")
+print(f"{n} x 9  = {n * 9:>8}")
+print(f"{n} x 10 = {n * 10:8}")
