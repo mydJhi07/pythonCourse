@@ -31,7 +31,7 @@ print("\n----- YOUR CART -----")
 # Iterasi melalui setiap makanan yang ada di dalam list foods
 for food in foods:
     # end=" " memastikan setiap makanan dicetak menyamping secara berdampingan, bukan baris baru.
-    print(food, end=" ")
+    print(food, end=", ")
 
 # 4. Kalkulasi Total Harga
 # Iterasi melalui setiap nominal yang ada di dalam list prices
